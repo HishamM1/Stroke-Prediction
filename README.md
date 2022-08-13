@@ -19,8 +19,8 @@ This dataset is used to predict whether a patient is likely to get stroke based 
 [Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 
 ## Machine Learning Models Used
-1.Logistic Regression with 86% Accuracy
-2.Decision Tree with 91% Accuracy
-3.Random Forrest with 95% Accuracy
-4.XGB with 96% Accuracy
-5.KNN with 93% Accuracy
+1. Logistic Regression with 86% Accuracy
+2. Decision Tree with 91% Accuracy
+3. Random Forrest with 95% Accuracy
+4. XGB with 96% Accuracy
+5. KNN with 93% Accuracy
